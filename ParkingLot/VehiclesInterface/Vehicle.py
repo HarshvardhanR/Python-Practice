@@ -1,7 +1,7 @@
 
-from Enums.VehicleType import VehicleType
+from ParkingLot.Enums.vehicle_type import VehicleType
 
-class Vehcle:
+class Vehicle:
     def __init__(self, VehicleType):
         self.VehicleType = VehicleType
         
