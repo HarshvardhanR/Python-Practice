@@ -1,4 +1,4 @@
-from VehiclesInterface.Vehicle import Vehicle
+from VehiclesInterface.vehicle import Vehicle
 from ParkingLot.Enums.vehicle_type import VehicleType
 
 class Bike(Vehicle):
